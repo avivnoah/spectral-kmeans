@@ -1,0 +1,26 @@
+to do:
+2. לעבור על הקוד, ולהבין למה ומה אפשר לשנות, להוסיף, להוריד וכו'
+3. לנקות את הקוד בהתאם להנחיות
+
+
+Files done:
+- Makefile
+- symnmf.h
+- setup.py
+
+
+
+Files to go through:
+- symnmfmodule.c
+- analysis.py
+- symnmf.py
+- symnmf_alg.c
+- symnmf.c
+
+
+
+
+
+
+
+
